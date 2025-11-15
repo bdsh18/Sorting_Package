@@ -96,7 +96,10 @@ git commit -m "Q3 Submission: Initial project with 4 algorithms and design repor
 git tag v1.0-q3-submission
 add pylint 
 git tag v1.0-q3-pylintreport
-
+git commmit - m "added  shell sort and pylint after code improvement report"
+git tag  v1.2-shell-sort 
+git commit "code refactor  to improve the score >8.5"
+tag: v1.1-refactored
 
 ### **Congratulations!**
 
