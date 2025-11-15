@@ -1,0 +1,59 @@
+************* Module src
+src/__init__.py:5:0: C0304: Final newline missing (missing-final-newline)
+src/__init__.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+************* Module src.sorter
+src/sorter.py:22:0: C0303: Trailing whitespace (trailing-whitespace)
+src/sorter.py:36:0: C0303: Trailing whitespace (trailing-whitespace)
+src/sorter.py:44:0: C0301: Line too long (102/100) (line-too-long)
+src/sorter.py:48:0: C0325: Unnecessary parens after 'not' keyword (superfluous-parens)
+src/sorter.py:54:0: C0301: Line too long (114/100) (line-too-long)
+src/sorter.py:67:0: C0303: Trailing whitespace (trailing-whitespace)
+src/sorter.py:74:0: C0303: Trailing whitespace (trailing-whitespace)
+src/sorter.py:80:0: C0303: Trailing whitespace (trailing-whitespace)
+src/sorter.py:89:0: C0303: Trailing whitespace (trailing-whitespace)
+src/sorter.py:92:0: C0304: Final newline missing (missing-final-newline)
+src/sorter.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+src/sorter.py:24:8: C0103: Attribute name "_INT32_MIN" doesn't conform to snake_case naming style (invalid-name)
+src/sorter.py:25:8: C0103: Attribute name "_INT32_MAX" doesn't conform to snake_case naming style (invalid-name)
+src/sorter.py:26:8: C0103: Attribute name "_MAX_ELEMENTS" doesn't conform to snake_case naming style (invalid-name)
+src/sorter.py:9:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+************* Module src.algorithms.quick_sort
+src/algorithms/quick_sort.py:31:0: C0325: Unnecessary parens after '=' keyword (superfluous-parens)
+src/algorithms/quick_sort.py:37:0: C0303: Trailing whitespace (trailing-whitespace)
+src/algorithms/quick_sort.py:43:0: C0304: Final newline missing (missing-final-newline)
+src/algorithms/quick_sort.py:43:0: C0325: Unnecessary parens after 'return' keyword (superfluous-parens)
+src/algorithms/quick_sort.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+src/algorithms/quick_sort.py:4:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+************* Module src.algorithms.merge_sort
+src/algorithms/merge_sort.py:47:0: C0304: Final newline missing (missing-final-newline)
+src/algorithms/merge_sort.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+src/algorithms/merge_sort.py:18:12: C0103: Variable name "L" doesn't conform to snake_case naming style (invalid-name)
+src/algorithms/merge_sort.py:19:12: C0103: Variable name "R" doesn't conform to snake_case naming style (invalid-name)
+src/algorithms/merge_sort.py:4:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+************* Module src.algorithms.base_sort
+src/algorithms/base_sort.py:9:0: C0303: Trailing whitespace (trailing-whitespace)
+src/algorithms/base_sort.py:22:0: C0304: Final newline missing (missing-final-newline)
+src/algorithms/base_sort.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+src/algorithms/base_sort.py:22:8: W0107: Unnecessary pass statement (unnecessary-pass)
+src/algorithms/base_sort.py:4:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+************* Module src.algorithms.bubble_sort
+src/algorithms/bubble_sort.py:18:0: C0303: Trailing whitespace (trailing-whitespace)
+src/algorithms/bubble_sort.py:21:0: C0303: Trailing whitespace (trailing-whitespace)
+src/algorithms/bubble_sort.py:25:0: C0303: Trailing whitespace (trailing-whitespace)
+src/algorithms/bubble_sort.py:26:0: C0304: Final newline missing (missing-final-newline)
+src/algorithms/bubble_sort.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+src/algorithms/bubble_sort.py:4:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+************* Module src.algorithms.__init__
+src/algorithms/__init__.py:8:0: C0304: Final newline missing (missing-final-newline)
+************* Module src.algorithms
+src/algorithms/__init__.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+************* Module src.algorithms.selection_sort
+src/algorithms/selection_sort.py:19:0: C0303: Trailing whitespace (trailing-whitespace)
+src/algorithms/selection_sort.py:22:0: C0303: Trailing whitespace (trailing-whitespace)
+src/algorithms/selection_sort.py:23:0: C0304: Final newline missing (missing-final-newline)
+src/algorithms/selection_sort.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+src/algorithms/selection_sort.py:4:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 6.29/10 (previous run: 6.29/10, +0.00)
+
