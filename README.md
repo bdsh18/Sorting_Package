@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #   
+=======
+report#   
+>>>>>>> origin/main
 
 # Sorting Package
 
@@ -84,6 +88,7 @@ The `main.py` script reads numbers from `input.txt`, runs all sorting algorithms
         cd Sort_Package 
         python3 - m  pytest
 
+<<<<<<< HEAD
 
 
 
@@ -202,4 +207,25 @@ git log --oneline --graph --all
 # git checkout v1.1-refactored  (to see the refactored code)
 # git checkout v1.2-shell-sort   (to see the final code with shell sort)
 # git checkout main              (to see your original code)
+=======
+Git Process:
+# 1. Initialize the new git repository
+git init -b main
+
+# 2. Add all the files (the .gitignore and our Q3-state code)
+git add .
+
+# 3. Commit the files
+git commit -m "Q3 Submission: Initial project with 4 algorithms and design report"
+
+# 4. Tag this commit
+git tag v1.0-q3-submission
+add pylint 
+git tag v1.0-q3-pylintreport
+
+
+### **Congratulations!**
+
+ run `git log --oneline --graph --all --decorate`, to see  perfect two-commit history
+>>>>>>> origin/main
         
