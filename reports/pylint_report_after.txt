@@ -1,0 +1,30 @@
+************* Module src.sorter
+src/sorter.py:74:0: C0325: Unnecessary parens after 'not' keyword (superfluous-parens)
+src/sorter.py:118:0: C0304: Final newline missing (missing-final-newline)
+************* Module src.algorithms.shell_sort
+src/algorithms/shell_sort.py:34:0: C0304: Final newline missing (missing-final-newline)
+src/algorithms/shell_sort.py:5:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+************* Module src.algorithms.quick_sort
+src/algorithms/quick_sort.py:47:22: C0303: Trailing whitespace (trailing-whitespace)
+src/algorithms/quick_sort.py:48:55: C0303: Trailing whitespace (trailing-whitespace)
+src/algorithms/quick_sort.py:50:0: C0304: Final newline missing (missing-final-newline)
+src/algorithms/quick_sort.py:5:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+************* Module src.algorithms.merge_sort
+src/algorithms/merge_sort.py:41:0: C0304: Final newline missing (missing-final-newline)
+src/algorithms/merge_sort.py:5:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+************* Module src.algorithms.base_sort
+src/algorithms/base_sort.py:36:0: C0304: Final newline missing (missing-final-newline)
+src/algorithms/base_sort.py:9:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+************* Module src.algorithms.bubble_sort
+src/algorithms/bubble_sort.py:26:0: C0304: Final newline missing (missing-final-newline)
+src/algorithms/bubble_sort.py:5:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+************* Module src.algorithms.__init__
+src/algorithms/__init__.py:21:0: C0304: Final newline missing (missing-final-newline)
+************* Module src.algorithms.selection_sort
+src/algorithms/selection_sort.py:21:35: C0303: Trailing whitespace (trailing-whitespace)
+src/algorithms/selection_sort.py:25:0: C0304: Final newline missing (missing-final-newline)
+src/algorithms/selection_sort.py:5:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 8.70/10 (previous run: 8.62/10, +0.07)
+

@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: Sorting_Package
+Version: 0.1.0
+Summary: A demonstration package for various sorting algorithms.
+Author: Bidisha
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Dynamic: author
+Dynamic: provides-extra
+Dynamic: summary
